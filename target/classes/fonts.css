@@ -1,0 +1,21 @@
+/* Monet Theme Font Stack */
+.monet-text {
+    -fx-font-family: 'Baumans';
+    -fx-font-weight: 300;
+}
+
+/* Title text style */
+.monet-title {
+    -fx-font-family: 'Bebas Neue';
+    -fx-font-size: 70px;
+    -fx-fill: #0A014F;
+    -fx-stroke: #0A014F;
+    -fx-stroke-width: 2;
+}
+.monet-title2 {
+    -fx-font-family: 'Bebas Neue';
+    -fx-font-size: 40px;
+    -fx-fill: #0A014F;
+    -fx-stroke: #0A014F;
+    -fx-stroke-width: 2;
+}
