@@ -2,8 +2,8 @@ Backend/UserCreated/sds.class
 Backend/DynamicRunnerLoader.class
 Backend/Runners/DijkstraMaze.class
 Backend/Structures/Maze.class
-Frontend/RunnerSelectionScreen1v1.class
 Backend/Runner.class
+Frontend/RunnerSelectionScreen1v1.class
 Frontend/HomeScreen.class
 Frontend/RunnerSelectionScreen.class
 Frontend/LeaderboardScreen$1.class
@@ -32,10 +32,10 @@ Backend/UserCreated/Vinay.class
 Backend/Runners/DFSsan.class
 Backend/UserCreated/asdfs.class
 Frontend/LeaderboardScreen.class
-Frontend/CustomAlgoEditor.class
 Backend/Runners/DijkstraMaze$Cell.class
+Frontend/CustomAlgoEditor.class
+Backend/LeaderboardEntry$1.class
 Frontend/NormalModeSelectionScreen.class
 Frontend/OnevOneModeSelectionScreen.class
-Backend/LeaderboardEntry$1.class
 Backend/UserCodeWrapper.class
 Backend/UserCreated/sasd.class
